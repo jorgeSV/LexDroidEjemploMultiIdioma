@@ -2,10 +2,10 @@
 <resources>
 
     <string name="app_name">LexDroidEjemploMultiIdioma</string>
-    <string name="action_settings">Ajustes</string>
-    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_world">Bonjour monde!</string>
     <string name="nombre_jose">José Luján</string>
     <string name="nombre_luis">Luis Berganza</string>
-    <string name="boton">Botón</string>
-
+	<string name="boton">Bouton</string>
+    
 </resources>
